@@ -1,0 +1,5 @@
+.DS_Store
+cat_vs_dog/data
+*.h5
+*/data
+fashion_mnist/code/.ipynb_checkpoints
